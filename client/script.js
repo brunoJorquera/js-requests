@@ -171,9 +171,13 @@ queryBtn.addEventListener('click', queryRequest)
 /*
     In the function that you wrote for Problem 8, change the URL to test a couple different scenarios. 
 
-    1: Send no queries on the URL -- what happened? 
+    1: Send no queries on the URL -- what happened?
+
+    You sent an empty query! occured in the console
 
     2: Send more than 1 query on the URL -- what happened? 
+
+    You sent more than 1 query! occured in the console
 */
 
 // Edit code in Problem 8
